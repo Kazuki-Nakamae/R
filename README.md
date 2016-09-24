@@ -1,0 +1,2 @@
+# note
+TRIVIAL CODEs
