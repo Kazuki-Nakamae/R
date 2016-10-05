@@ -1,6 +1,6 @@
 #studyDeeplearning
 
-ディーブランニング練習帖
+ディーブランニング学習帖
 
 参考：「斎藤康毅 ゼロからはじめるDeeplearning(2016)」
 
